@@ -3,7 +3,7 @@
 
 And here is my todo list:
 
-- stroke fluffy cat tummies
-- finish up the github desktop training example
-- DONE eat some choc
-- make plans for tmro training
+- [ ] stroke fluffy cat tummies
+- [ ] finish up the github desktop training example
+- [x] eat some choc
+- [ ] make plans for tmro training
